@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syed.StringCalculator.Core"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syed.StringCalculator.Core.Tests", "Syed.StringCalculator.Core.Tests\Syed.StringCalculator.Core.Tests.csproj", "{B854AE46-C890-4D9A-95B2-5D8FF9C62523}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syed.StringCalculator.AcceptanceTests", "Syed.StringCalculator.IntegrationTests\Syed.StringCalculator.AcceptanceTests.csproj", "{874396DE-03F3-461E-AB4D-E63D5E625689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syed.StringCalculator.AcceptanceTests", "Syed.StringCalculator.AcceptanceTests\Syed.StringCalculator.AcceptanceTests.csproj", "{874396DE-03F3-461E-AB4D-E63D5E625689}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{26A136CE-3685-467D-8CD2-34558501536C}"
 EndProject
